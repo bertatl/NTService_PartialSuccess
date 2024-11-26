@@ -7,14 +7,11 @@ NTService_Library
 System.Diagnostics
 System.ComponentModel
 System
-System.Reflection
-System.Runtime.InteropServices
 System.Collections.Generic
-System.Data
 System.Linq
 System.Text
 System.Threading.Tasks
-System.Runtime.CompilerServices
+System.Data
 project.all
 
 ===============
@@ -43,17 +40,6 @@ Upgrade packages:
 ---------------------------
 Action packages:
 ---------------------------
----------------------------
-Executed Actions for file: Project
----------------------------
-
-Action Type: ProjectFile
-Action Name: MigrateProjectFile
-Action Value: 
-Times Run: 1
-Executions With Error: 0
-Invalid Executions: 0
-
 
 ----------------------
 Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/NTService_PartialSuccess/NTService_PartialSuccess/NTService_PartialSuccess.csproj
@@ -72,24 +58,6 @@ Upgrade packages:
 ---------------------------
 Action packages:
 ---------------------------
----------------------------
-Executed Actions for file: Project
----------------------------
-
-Action Type: Project
-Action Name: ArchiveFiles
-Action Value: BundleConfig.cs,FilterConfig.cs,RouteConfig.cs,WebApiConfig.cs,global.asax.cs,global.asax,AssemblyInfo.cs,packages.config
-Times Run: 1
-Executions With Error: 0
-Invalid Executions: 0
-
-Action Type: ProjectFile
-Action Name: MigrateProjectFile
-Action Value: 
-Times Run: 1
-Executions With Error: 0
-Invalid Executions: 0
-
 
 ----------------------
 Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/NTService_PartialSuccess/NTService_Library/NTService_Library.csproj
@@ -108,17 +76,6 @@ Upgrade packages:
 ---------------------------
 Action packages:
 ---------------------------
----------------------------
-Executed Actions for file: Project
----------------------------
-
-Action Type: ProjectFile
-Action Name: MigrateProjectFile
-Action Value: 
-Times Run: 1
-Executions With Error: 0
-Invalid Executions: 0
-
 
 ----------------------
 Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/NTService_PartialSuccess/NTService_PartialSuccess/NTService_PartialSuccess.csproj
@@ -137,24 +94,6 @@ Upgrade packages:
 ---------------------------
 Action packages:
 ---------------------------
----------------------------
-Executed Actions for file: Project
----------------------------
-
-Action Type: Project
-Action Name: ArchiveFiles
-Action Value: BundleConfig.cs,FilterConfig.cs,RouteConfig.cs,WebApiConfig.cs,global.asax.cs,global.asax,AssemblyInfo.cs,packages.config
-Times Run: 1
-Executions With Error: 0
-Invalid Executions: 0
-
-Action Type: ProjectFile
-Action Name: MigrateProjectFile
-Action Value: 
-Times Run: 1
-Executions With Error: 0
-Invalid Executions: 0
-
 
 
 ===========
