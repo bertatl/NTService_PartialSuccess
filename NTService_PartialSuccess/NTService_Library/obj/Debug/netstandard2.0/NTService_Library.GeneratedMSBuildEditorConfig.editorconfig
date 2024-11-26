@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = NTService_Library
+build_property.ProjectDir = /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/NTService_PartialSuccess/NTService_Library/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

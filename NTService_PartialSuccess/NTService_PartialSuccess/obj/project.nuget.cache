@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNz/BMH28gk=",
+  "success": true,
+  "projectFilePath": "/tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/NTService_PartialSuccess/NTService_PartialSuccess/NTService_PartialSuccess.csproj",
+  "expectedPackageFiles": [
+    "/tmp/tempfspartition/QnetTransformArtifacts/packages/system.diagnostics.eventlog/8.0.0/system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "/tmp/tempfspartition/QnetTransformArtifacts/packages/system.serviceprocess.servicecontroller/8.0.0/system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
